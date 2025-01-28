@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 📓 At UC Berkeley, I have taken the following courses:
 * CS 61A: The Structure and Interpretations of Computer Programs
 * CS 61B: Data Structures
+* CS 70: Discrete Mathematics and Probability Theory
 * EECS 16A: Foundations of Signals, Dynamical Systems, and Information Processing
 * EECS 16B: Introduction to Circuits & Devices
-* CS 70: Discrete Mathematics and Probability Theory
 * ENGIN 125: Ethics, Engineering, and Society
 
 🏆 Passionate about building cool stuff...
