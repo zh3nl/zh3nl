@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔗 LinkedIn: https://www.linkedin.com/in/zh3nl/
 
-🧑‍🔬 Some of my technical interests include: Full-Stack Development, AI/ML, Blockchain, and Programming Systems
+🧑‍🔬 Some of my technical interests include: Full-Stack Development, AI/ML, Blockchain, Quant, and Programming Systems
 
 📓 At UC Berkeley, I have taken the following courses:
 * CS 61A: The Structure and Interpretations of Computer Programs
