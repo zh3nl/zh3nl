@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 * CS 70: Discrete Mathematics and Probability Theory
 * EECS 16A: Foundations of Signals, Dynamical Systems, and Information Processing
 * EECS 16B: Introduction to Circuits & Devices
+* IEOR 198: Intro to Quant Finance
 * ENGIN 125: Ethics, Engineering, and Society
+
 
 🏆 Passionate about building cool stuff...
 
