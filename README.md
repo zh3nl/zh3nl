@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🧑‍🔬 Some of my technical interests include: Full-Stack Development, AI/ML, Blockchain, Quant, and Programming Systems
 
-📓 At UC Berkeley, I have taken the following courses:
+📓 At UC Berkeley, I have taken/is currently taking the following courses:
 * CS 61A: The Structure and Interpretations of Computer Programs
 * CS 61B: Data Structures
 * CS 70: Discrete Mathematics and Probability Theory
