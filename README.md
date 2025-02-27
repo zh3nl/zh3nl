@@ -1,6 +1,8 @@
 # Hey 👋 I'm Zhen!
 🐻 I'm an undergraduate student studying Electrical Engineering & Computer Sciences @ UC Berkeley
+
 🧑‍🔬 Some of my technical interests include: Full-Stack Development, AI/ML, Blockchain, Quant, and Programming Systems
+
 📓 At UC Berkeley, I have taken/is currently taking the following courses:
 * CS 61A: The Structure and Interpretations of Computer Programs
 * CS 61B: Data Structures
