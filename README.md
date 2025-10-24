@@ -12,7 +12,7 @@
 * EECS 16B: Introduction to Circuits & Devices
 * EECS 126: Probability and Random Processes
 * EECS 127: Optimization Models in Engineering
-* Physics 7A: Physics for Scientists and Engineers (Mechanics)
+* Physics 7A: Classical Mechanics
 * IEOR 198: Intro to Quant Finance
 * ENGIN 125: Ethics, Engineering, and Society
 
