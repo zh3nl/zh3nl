@@ -8,11 +8,14 @@
 * CS 61B: Data Structures
 * CS 61C: Great Ideas of Computer Architecture (Machine Structures)
 * CS 70: Discrete Mathematics and Probability Theory
+* CS 164: Programming Languages & Compilers
+* CS 189: Introduction to Machine Learning
 * EECS 16A: Foundations of Signals, Dynamical Systems, and Information Processing
 * EECS 16B: Introduction to Circuits & Devices
 * EECS 126: Probability and Random Processes
 * EECS 127: Optimization Models in Engineering
 * Physics 7A: Classical Mechanics
+* Physics 7B: Electricity & Magnetism
 * IEOR 198: Intro to Quant Finance
 * ENGIN 125: Ethics, Engineering, and Society
 
