@@ -14,12 +14,13 @@
 * EECS 16B: Introduction to Circuits & Devices
 * EECS 126: Probability and Random Processes
 * EECS 127: Optimization Models in Engineering
+* Math 110: Abstract Linear Algebra
 * Physics 7A: Classical Mechanics
 * Physics 7B: Electricity & Magnetism
 * IEOR 198: Intro to Quant Finance
 * ENGIN 125: Ethics, Engineering, and Society
 
-🏆 Passionate about building cool stuff...
+🏆 Passionate about building cool stuff and meeting new people. Feel free to reach out at zhen_liu[at]berkeley[dot]edu
 
 
 ## 🌐 Socials:
