@@ -1,19 +1,25 @@
 # Hey 👋 I'm Zhen!
 🐻 I'm an undergraduate student studying Electrical Engineering & Computer Sciences @ UC Berkeley
 
-🧑‍🔬 Some of my technical interests include: Full-Stack Development, AI/ML, Quantitative Finance, Programming Systems, Distributed Systems, Mathematics, and Physics
+🧑‍🔬 Some of my technical interests include:
+* Quant: Signal research, systematic model development, research tooling
+* ML: foundational models, agentic systems, post-training, AI alignment
+* Other: Probability theory, optimization models, stochastic processes
 
 📓 At UC Berkeley, I have taken/is currently taking the following courses:
 * CS 61A: The Structure and Interpretations of Computer Programs
 * CS 61B: Data Structures
 * CS 61C: Great Ideas of Computer Architecture (Machine Structures)
 * CS 70: Discrete Mathematics and Probability Theory
+* CS 162: Operating Systems
 * CS 164: Programming Languages & Compilers
 * CS 189: Introduction to Machine Learning
+* CS C182: Deep Learning
 * EECS 16A: Foundations of Signals, Dynamical Systems, and Information Processing
 * EECS 16B: Introduction to Circuits & Devices
 * EECS 126: Probability and Random Processes
 * EECS 127: Optimization Models in Engineering
+* EECS 183: NLP
 * Math 110: Abstract Linear Algebra
 * Physics 7A: Classical Mechanics
 * Physics 7B: Electricity & Magnetism
