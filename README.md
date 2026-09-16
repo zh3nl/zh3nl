@@ -1,10 +1,10 @@
 # Hey 👋 I'm Zhen!
-🐻 I'm an undergraduate student studying Electrical Engineering & Computer Sciences @ UC Berkeley
+🐻 I'm an undergraduate student studying Electrical Engineering & Computer Science @ UC Berkeley
 
 🧑‍🔬 Some of my technical interests include:
-* Quant: Signal research, systematic model development, research tooling
-* ML: foundational models, agentic systems, post-training, AI alignment
-* Other: Probability theory, optimization models, stochastic processes
+* Quant: Signal research, systematic model development, research tooling, large-scale infrastructure
+* ML: foundational models, agentic systems, post-training, AI alignment, AI for Math/Science
+* Other: Probability theory, optimization models, stochastic processes, forecasting
 
 📓 At UC Berkeley, I have taken/is currently taking the following courses:
 * CS 61A: The Structure and Interpretations of Computer Programs
